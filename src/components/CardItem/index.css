@@ -1,0 +1,59 @@
+.card-1 {
+  border-top: 5px solid #ff4f64;
+  height: 40vh;
+  width: auto;
+  margin: 10px;
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  list-style-type: none;
+}
+
+.card-2 {
+  border-top: 5px solid #00a8e7;
+  height: 40vh;
+  width: auto;
+  margin: 10px;
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  list-style-type: none;
+}
+
+.card-3 {
+  border-top: 5px solid #44c4a1;
+  height: 40vh;
+  width: auto;
+  margin: 10px;
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  list-style-type: none;
+}
+
+.card-4 {
+  border-top: 5px solid #fcc200;
+  height: 40vh;
+  width: auto;
+  margin: 10px;
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  list-style-type: none;
+}
+
+/* Write CSS code here. */
+.small-heading {
+  color: #171f46;
+  font-weight: bold;
+  font-size: 20px;
+}
+.small-para {
+  color: #64748b;
+}
+.new {
+  text-align: right;
+}
+.avatar {
+  height: 10vh;
+}
